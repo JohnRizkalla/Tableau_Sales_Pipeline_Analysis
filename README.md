@@ -43,6 +43,10 @@ For Tableau Public click here: [Tableau Public](https://public.tableau.com/views
 
 # Insights
 
-#### 1. 
+#### 1. Team "Melvin" has the highest revenu compared to the other teams although the same team has the lowest conversion rate.
+#### 2. Need to dig deeper into why pipeline is taking more than a month to be a closed deal in order to determine the delay like if any particular documents are delayed for a specific reason or any problems with the supply chain cycle.
+#### 3. "Darcel" of team "Melvin" has the highest revenu & closed deals, other sales agents should learn some of his methods & company might aknwoledge his efforts by somekind of award.
+#### 4. Product "GTK 500" has a low revenue with a very high price compared to other products, so the company might push the selling process more toward this product or stop its production in order to reduce cost.
+#### 5. There is a trend in products revenu to spike up every quarter end and this needs a more deep investigation with the sales methods and market research.
 
 
