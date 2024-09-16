@@ -26,19 +26,19 @@ For Tableau Public click here: [Tableau Public](https://public.tableau.com/views
 ### 4. Deals Revenue by Q
 ### 5. Deals Stages % From Total
 
-![]()
+![](Images/1.png)
 
 ### 6. Revenue & Closed Deals by Sales Agent
 ### 7. Sales Pipeline AVG. Days by Sales Agent
 
-![]()
+![](Images/2.png)
 
 ### 8. Revenue & Price by Product
 ### 9. Product Revenue by Month
 ### 10. Deals Revenu by Account
 ### 11. Revenu % by Sector
 
-![]()
+![](Images/3.png)
 
 
 # Insights
